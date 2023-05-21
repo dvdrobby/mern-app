@@ -1,10 +1,9 @@
 import React from 'react'
 
 function Home() {
-  console.log("Home")
   return (
 
-    <div>Halaman Home</div>
+    <div>Ini adalah Halaman Home</div>
   )
 }
 
